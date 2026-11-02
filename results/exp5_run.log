@@ -1,0 +1,31 @@
+nohup: ignoring input
+2026-11-02 20:34:39,264 INFO exp5: loading S&P500 data 2016-01-01 to 2020-01-01 ...
+2026-11-02 20:34:39,264 INFO Loading tickers batch 0–20...
+2026-11-02 20:34:51,589 WARNING Batch 0 failed: No OHLCV rows returned for tickers ['KO', 'PG', 'WMT', 'MO', 'PM']... between 2016-01-01 and 2020-01-01.
+2026-11-02 20:34:51,590 INFO Loading tickers batch 20–40...
+2026-11-02 20:35:05,700 WARNING Batch 20 failed: No OHLCV rows returned for tickers ['PFE', 'MRK', 'ABT', 'BMY', 'LLY']... between 2016-01-01 and 2020-01-01.
+2026-11-02 20:35:05,701 INFO Loading tickers batch 40–60...
+2026-11-02 20:35:21,597 WARNING Batch 40 failed: No OHLCV rows returned for tickers ['TXN', 'ADI', 'AMAT', 'LRCX', 'GLW']... between 2016-01-01 and 2020-01-01.
+2026-11-02 20:35:21,598 INFO Loading tickers batch 60–80...
+2026-11-02 20:35:37,968 WARNING Batch 60 failed: No OHLCV rows returned for tickers ['AXP', 'BK', 'STT', 'MMC', 'AON']... between 2016-01-01 and 2020-01-01.
+2026-11-02 20:35:37,969 INFO Loading tickers batch 80–100...
+2026-11-02 20:35:53,685 WARNING Batch 80 failed: No OHLCV rows returned for tickers ['SLB', 'HAL', 'BKR', 'VLO', 'MPC']... between 2016-01-01 and 2020-01-01.
+2026-11-02 20:35:53,686 INFO Loading tickers batch 100–120...
+2026-11-02 20:36:11,325 WARNING Batch 100 failed: No OHLCV rows returned for tickers ['PH', 'GWW', 'FDX', 'UPS', 'CSX']... between 2016-01-01 and 2020-01-01.
+2026-11-02 20:36:11,326 INFO Loading tickers batch 120–140...
+2026-11-02 20:36:27,785 WARNING Batch 120 failed: No OHLCV rows returned for tickers ['LIN', 'IFF', 'FMC', 'ALB', 'AEP']... between 2016-01-01 and 2020-01-01.
+2026-11-02 20:36:27,786 INFO Loading tickers batch 140–150...
+2026-11-02 20:36:34,450 WARNING Batch 140 failed: No OHLCV rows returned for tickers ['NFLX', 'CBS', 'OMC', 'IPG', 'O']... between 2016-01-01 and 2020-01-01.
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/workspace/project/exp/exp5.py", line 231, in <module>
+    main()
+  File "/workspace/project/exp/exp5.py", line 227, in main
+    run_exp5(seed=args.seed)
+  File "/workspace/project/exp/exp5.py", line 72, in run_exp5
+    stocks_ohlcv, index_ohlcv = load_sp500_data_exp5(
+                                ^^^^^^^^^^^^^^^^^^^^^
+  File "/workspace/project/data/data_loader.py", line 422, in load_sp500_data_exp5
+    raise RuntimeError("No stock data could be loaded for exp5.")
+RuntimeError: No stock data could be loaded for exp5.

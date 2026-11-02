@@ -1,0 +1,201 @@
+nohup: ignoring input
+2026-11-02 21:03:36,185 INFO exp5: loading S&P500 data 2016-01-01 to 2020-01-01 ...
+2026-11-02 21:03:36,185 INFO Loading tickers batch 0–20...
+2026-11-02 21:03:53,171 INFO Stored mode (result_id=2be1620cd6d048d6): downloading 19 tickers with 3 threads.
+2026-11-02 21:03:53,423 INFO Stored mode: successfully loaded 19/19 tickers.
+2026-11-02 21:03:53,425 INFO Loading tickers batch 20–40...
+2026-11-02 21:04:07,430 INFO Stored mode (result_id=4f5cbca2223e4515): downloading 20 tickers with 3 threads.
+2026-11-02 21:04:07,628 INFO Stored mode: successfully loaded 20/20 tickers.
+2026-11-02 21:04:07,629 INFO Loading tickers batch 40–60...
+2026-11-02 21:04:26,588 INFO Stored mode (result_id=233fd7e18f824232): downloading 20 tickers with 3 threads.
+2026-11-02 21:04:26,789 INFO Stored mode: successfully loaded 20/20 tickers.
+2026-11-02 21:04:26,790 INFO Loading tickers batch 60–80...
+2026-11-02 21:04:41,753 INFO Stored mode (result_id=ee666dfae946470a): downloading 20 tickers with 3 threads.
+2026-11-02 21:04:41,944 INFO Stored mode: successfully loaded 20/20 tickers.
+2026-11-02 21:04:41,946 INFO Loading tickers batch 80–100...
+2026-11-02 21:04:59,479 INFO Stored mode (result_id=e234f9181d414565): downloading 20 tickers with 3 threads.
+2026-11-02 21:04:59,673 INFO Stored mode: successfully loaded 20/20 tickers.
+2026-11-02 21:04:59,675 INFO Loading tickers batch 100–120...
+2026-11-02 21:05:14,244 INFO Stored mode (result_id=d1081b70cad84303): downloading 20 tickers with 3 threads.
+2026-11-02 21:05:14,440 INFO Stored mode: successfully loaded 20/20 tickers.
+2026-11-02 21:05:14,441 INFO Loading tickers batch 120–140...
+2026-11-02 21:05:35,982 INFO Stored mode (result_id=f788310a9c414aff): downloading 20 tickers with 3 threads.
+2026-11-02 21:05:36,211 INFO Stored mode: successfully loaded 20/20 tickers.
+2026-11-02 21:05:36,212 INFO Loading tickers batch 140–150...
+2026-11-02 21:05:49,301 INFO Stored mode (result_id=d31dfdbd8c254a99): downloading 10 tickers with 3 threads.
+2026-11-02 21:05:49,421 INFO Stored mode: successfully loaded 10/10 tickers.
+2026-11-02 21:05:49,422 INFO Loading S&P 500 index (SPY)...
+2026-11-02 21:05:52,567 INFO Loaded 1/1 tickers, 2016-01-01 to 2020-01-01, total rows: 1006
+2026-11-02 21:05:52,569 INFO Loaded 149 stocks and index. Index rows: 1006 (2016-01-04 to 2019-12-31)
+2026-11-02 21:05:53,070 INFO Available tickers after NaN filter: 147
+2026-11-02 21:05:53,071 INFO exp5: T_empirical=1005
+2026-11-02 21:05:55,586 INFO exp5: S&P500 index H = 0.0464
+2026-11-02 21:05:55,586 INFO exp5: N_s = 2
+2026-11-02 21:05:58,687 INFO   N_s=2 combo 1/20: H_factor=0.0262
+2026-11-02 21:06:01,599 INFO   N_s=2 combo 2/20: H_factor=0.0437
+2026-11-02 21:06:04,792 INFO   N_s=2 combo 3/20: H_factor=0.0276
+2026-11-02 21:06:07,659 INFO   N_s=2 combo 4/20: H_factor=0.0350
+2026-11-02 21:06:10,468 INFO   N_s=2 combo 5/20: H_factor=0.0340
+2026-11-02 21:06:12,689 INFO   N_s=2 combo 6/20: H_factor=0.1037
+2026-11-02 21:06:16,060 INFO   N_s=2 combo 7/20: H_factor=0.0203
+2026-11-02 21:06:19,246 INFO   N_s=2 combo 8/20: H_factor=0.0220
+2026-11-02 21:06:22,139 INFO   N_s=2 combo 9/20: H_factor=0.0367
+2026-11-02 21:06:25,115 INFO   N_s=2 combo 10/20: H_factor=0.0368
+2026-11-02 21:06:28,194 INFO   N_s=2 combo 11/20: H_factor=0.0273
+2026-11-02 21:06:31,183 INFO   N_s=2 combo 12/20: H_factor=0.0278
+2026-11-02 21:06:34,107 INFO   N_s=2 combo 13/20: H_factor=0.0295
+2026-11-02 21:06:37,044 INFO   N_s=2 combo 14/20: H_factor=0.0280
+2026-11-02 21:06:39,692 INFO   N_s=2 combo 15/20: H_factor=0.0445
+2026-11-02 21:06:42,442 INFO   N_s=2 combo 16/20: H_factor=0.0362
+2026-11-02 21:06:45,619 INFO   N_s=2 combo 17/20: H_factor=0.0267
+2026-11-02 21:06:48,645 INFO   N_s=2 combo 18/20: H_factor=0.0273
+2026-11-02 21:06:51,361 INFO   N_s=2 combo 19/20: H_factor=0.0365
+2026-11-02 21:06:54,253 INFO   N_s=2 combo 20/20: H_factor=0.0353
+2026-11-02 21:06:54,253 INFO N_s=2: mean H=0.0352  [0.0211, 0.0755]
+2026-11-02 21:06:54,253 INFO exp5: N_s = 4
+2026-11-02 21:06:57,066 INFO   N_s=4 combo 1/20: H_factor=0.0315
+2026-11-02 21:06:59,537 INFO   N_s=4 combo 2/20: H_factor=0.0513
+2026-11-02 21:07:02,204 INFO   N_s=4 combo 3/20: H_factor=0.0422
+2026-11-02 21:07:05,119 INFO   N_s=4 combo 4/20: H_factor=0.0373
+2026-11-02 21:07:07,792 INFO   N_s=4 combo 5/20: H_factor=0.0404
+2026-11-02 21:07:10,509 INFO   N_s=4 combo 6/20: H_factor=0.0403
+2026-11-02 21:07:13,432 INFO   N_s=4 combo 7/20: H_factor=0.0310
+2026-11-02 21:07:16,016 INFO   N_s=4 combo 8/20: H_factor=0.0515
+2026-11-02 21:07:18,601 INFO   N_s=4 combo 9/20: H_factor=0.0405
+2026-11-02 21:07:21,229 INFO   N_s=4 combo 10/20: H_factor=0.0466
+2026-11-02 21:07:23,594 INFO   N_s=4 combo 11/20: H_factor=0.0471
+2026-11-02 21:07:26,352 INFO   N_s=4 combo 12/20: H_factor=0.0412
+2026-11-02 21:07:28,976 INFO   N_s=4 combo 13/20: H_factor=0.0534
+2026-11-02 21:07:31,895 INFO   N_s=4 combo 14/20: H_factor=0.0352
+2026-11-02 21:07:34,970 INFO   N_s=4 combo 15/20: H_factor=0.0398
+2026-11-02 21:07:37,828 INFO   N_s=4 combo 16/20: H_factor=0.0340
+2026-11-02 21:07:40,683 INFO   N_s=4 combo 17/20: H_factor=0.0351
+2026-11-02 21:07:43,544 INFO   N_s=4 combo 18/20: H_factor=0.0289
+2026-11-02 21:07:46,475 INFO   N_s=4 combo 19/20: H_factor=0.0383
+2026-11-02 21:07:49,268 INFO   N_s=4 combo 20/20: H_factor=0.0381
+2026-11-02 21:07:49,268 INFO N_s=4: mean H=0.0402  [0.0299, 0.0525]
+2026-11-02 21:07:49,268 INFO exp5: N_s = 8
+2026-11-02 21:07:52,366 INFO   N_s=8 combo 1/20: H_factor=0.0350
+2026-11-02 21:07:55,041 INFO   N_s=8 combo 2/20: H_factor=0.0442
+2026-11-02 21:07:57,707 INFO   N_s=8 combo 3/20: H_factor=0.0437
+2026-11-02 21:08:00,486 INFO   N_s=8 combo 4/20: H_factor=0.0430
+2026-11-02 21:08:03,200 INFO   N_s=8 combo 5/20: H_factor=0.0386
+2026-11-02 21:08:05,564 INFO   N_s=8 combo 6/20: H_factor=0.0677
+2026-11-02 21:08:08,205 INFO   N_s=8 combo 7/20: H_factor=0.0355
+2026-11-02 21:08:10,880 INFO   N_s=8 combo 8/20: H_factor=0.0406
+2026-11-02 21:08:13,551 INFO   N_s=8 combo 9/20: H_factor=0.0405
+2026-11-02 21:08:16,361 INFO   N_s=8 combo 10/20: H_factor=0.0343
+2026-11-02 21:08:19,280 INFO   N_s=8 combo 11/20: H_factor=0.0295
+2026-11-02 21:08:21,998 INFO   N_s=8 combo 12/20: H_factor=0.0396
+2026-11-02 21:08:24,770 INFO   N_s=8 combo 13/20: H_factor=0.0352
+2026-11-02 21:08:27,534 INFO   N_s=8 combo 14/20: H_factor=0.0397
+2026-11-02 21:08:30,251 INFO   N_s=8 combo 15/20: H_factor=0.0391
+2026-11-02 21:08:32,647 INFO   N_s=8 combo 16/20: H_factor=0.0461
+2026-11-02 21:08:35,326 INFO   N_s=8 combo 17/20: H_factor=0.0375
+2026-11-02 21:08:37,909 INFO   N_s=8 combo 18/20: H_factor=0.0400
+2026-11-02 21:08:40,817 INFO   N_s=8 combo 19/20: H_factor=0.0451
+2026-11-02 21:08:43,490 INFO   N_s=8 combo 20/20: H_factor=0.0410
+2026-11-02 21:08:43,490 INFO N_s=8: mean H=0.0408  [0.0318, 0.0574]
+2026-11-02 21:08:43,490 INFO exp5: N_s = 16
+2026-11-02 21:08:46,063 INFO   N_s=16 combo 1/20: H_factor=0.0390
+2026-11-02 21:08:48,748 INFO   N_s=16 combo 2/20: H_factor=0.0443
+2026-11-02 21:08:51,612 INFO   N_s=16 combo 3/20: H_factor=0.0407
+2026-11-02 21:08:54,084 INFO   N_s=16 combo 4/20: H_factor=0.0484
+2026-11-02 21:08:56,754 INFO   N_s=16 combo 5/20: H_factor=0.0414
+2026-11-02 21:08:59,705 INFO   N_s=16 combo 6/20: H_factor=0.0513
+2026-11-02 21:09:02,232 INFO   N_s=16 combo 7/20: H_factor=0.0498
+2026-11-02 21:09:04,821 INFO   N_s=16 combo 8/20: H_factor=0.0435
+2026-11-02 21:09:07,542 INFO   N_s=16 combo 9/20: H_factor=0.0372
+2026-11-02 21:09:10,140 INFO   N_s=16 combo 10/20: H_factor=0.0439
+2026-11-02 21:09:12,546 INFO   N_s=16 combo 11/20: H_factor=0.0521
+2026-11-02 21:09:15,186 INFO   N_s=16 combo 12/20: H_factor=0.0428
+2026-11-02 21:09:17,680 INFO   N_s=16 combo 13/20: H_factor=0.0439
+2026-11-02 21:09:20,203 INFO   N_s=16 combo 14/20: H_factor=0.0422
+2026-11-02 21:09:22,574 INFO   N_s=16 combo 15/20: H_factor=0.0528
+2026-11-02 21:09:24,943 INFO   N_s=16 combo 16/20: H_factor=0.0448
+2026-11-02 21:09:27,682 INFO   N_s=16 combo 17/20: H_factor=0.0405
+2026-11-02 21:09:30,286 INFO   N_s=16 combo 18/20: H_factor=0.0476
+2026-11-02 21:09:32,952 INFO   N_s=16 combo 19/20: H_factor=0.0365
+2026-11-02 21:09:35,635 INFO   N_s=16 combo 20/20: H_factor=0.0383
+2026-11-02 21:09:35,635 INFO N_s=16: mean H=0.0441  [0.0368, 0.0525]
+2026-11-02 21:09:35,636 INFO exp5: N_s = 32
+2026-11-02 21:09:38,346 INFO   N_s=32 combo 1/20: H_factor=0.0445
+2026-11-02 21:09:40,946 INFO   N_s=32 combo 2/20: H_factor=0.0425
+2026-11-02 21:09:43,358 INFO   N_s=32 combo 3/20: H_factor=0.0450
+2026-11-02 21:09:45,727 INFO   N_s=32 combo 4/20: H_factor=0.0498
+2026-11-02 21:09:48,346 INFO   N_s=32 combo 5/20: H_factor=0.0417
+2026-11-02 21:09:50,553 INFO   N_s=32 combo 6/20: H_factor=0.0560
+2026-11-02 21:09:53,074 INFO   N_s=32 combo 7/20: H_factor=0.0506
+2026-11-02 21:09:55,656 INFO   N_s=32 combo 8/20: H_factor=0.0477
+2026-11-02 21:09:58,221 INFO   N_s=32 combo 9/20: H_factor=0.0507
+2026-11-02 21:10:00,627 INFO   N_s=32 combo 10/20: H_factor=0.0458
+2026-11-02 21:10:03,005 INFO   N_s=32 combo 11/20: H_factor=0.0490
+2026-11-02 21:10:05,427 INFO   N_s=32 combo 12/20: H_factor=0.0455
+2026-11-02 21:10:07,777 INFO   N_s=32 combo 13/20: H_factor=0.0495
+2026-11-02 21:10:10,145 INFO   N_s=32 combo 14/20: H_factor=0.0461
+2026-11-02 21:10:12,407 INFO   N_s=32 combo 15/20: H_factor=0.0514
+2026-11-02 21:10:14,835 INFO   N_s=32 combo 16/20: H_factor=0.0477
+2026-11-02 21:10:17,383 INFO   N_s=32 combo 17/20: H_factor=0.0442
+2026-11-02 21:10:20,065 INFO   N_s=32 combo 18/20: H_factor=0.0494
+2026-11-02 21:10:22,514 INFO   N_s=32 combo 19/20: H_factor=0.0508
+2026-11-02 21:10:25,224 INFO   N_s=32 combo 20/20: H_factor=0.0380
+2026-11-02 21:10:25,224 INFO N_s=32: mean H=0.0473  [0.0397, 0.0538]
+2026-11-02 21:10:25,224 INFO exp5: N_s = 64
+2026-11-02 21:10:27,544 INFO   N_s=64 combo 1/20: H_factor=0.0496
+2026-11-02 21:10:29,915 INFO   N_s=64 combo 2/20: H_factor=0.0507
+2026-11-02 21:10:32,315 INFO   N_s=64 combo 3/20: H_factor=0.0500
+2026-11-02 21:10:34,752 INFO   N_s=64 combo 4/20: H_factor=0.0506
+2026-11-02 21:10:37,124 INFO   N_s=64 combo 5/20: H_factor=0.0501
+2026-11-02 21:10:39,487 INFO   N_s=64 combo 6/20: H_factor=0.0474
+2026-11-02 21:10:41,889 INFO   N_s=64 combo 7/20: H_factor=0.0500
+2026-11-02 21:10:44,282 INFO   N_s=64 combo 8/20: H_factor=0.0493
+2026-11-02 21:10:46,734 INFO   N_s=64 combo 9/20: H_factor=0.0508
+2026-11-02 21:10:49,152 INFO   N_s=64 combo 10/20: H_factor=0.0436
+2026-11-02 21:10:51,443 INFO   N_s=64 combo 11/20: H_factor=0.0520
+2026-11-02 21:10:53,989 INFO   N_s=64 combo 12/20: H_factor=0.0499
+2026-11-02 21:10:56,481 INFO   N_s=64 combo 13/20: H_factor=0.0498
+2026-11-02 21:10:59,100 INFO   N_s=64 combo 14/20: H_factor=0.0495
+2026-11-02 21:11:01,484 INFO   N_s=64 combo 15/20: H_factor=0.0508
+2026-11-02 21:11:03,812 INFO   N_s=64 combo 16/20: H_factor=0.0511
+2026-11-02 21:11:06,170 INFO   N_s=64 combo 17/20: H_factor=0.0495
+2026-11-02 21:11:08,519 INFO   N_s=64 combo 18/20: H_factor=0.0474
+2026-11-02 21:11:10,901 INFO   N_s=64 combo 19/20: H_factor=0.0500
+2026-11-02 21:11:13,259 INFO   N_s=64 combo 20/20: H_factor=0.0469
+2026-11-02 21:11:13,259 INFO N_s=64: mean H=0.0494  [0.0451, 0.0516]
+2026-11-02 21:11:13,259 INFO exp5: N_s = 128
+2026-11-02 21:11:15,887 INFO   N_s=128 combo 1/20: H_factor=0.0544
+2026-11-02 21:11:18,252 INFO   N_s=128 combo 2/20: H_factor=0.0523
+2026-11-02 21:11:20,634 INFO   N_s=128 combo 3/20: H_factor=0.0514
+2026-11-02 21:11:22,996 INFO   N_s=128 combo 4/20: H_factor=0.0516
+2026-11-02 21:11:25,308 INFO   N_s=128 combo 5/20: H_factor=0.0498
+2026-11-02 21:11:27,698 INFO   N_s=128 combo 6/20: H_factor=0.0531
+2026-11-02 21:11:30,120 INFO   N_s=128 combo 7/20: H_factor=0.0517
+2026-11-02 21:11:32,428 INFO   N_s=128 combo 8/20: H_factor=0.0520
+2026-11-02 21:11:34,781 INFO   N_s=128 combo 9/20: H_factor=0.0521
+2026-11-02 21:11:37,104 INFO   N_s=128 combo 10/20: H_factor=0.0532
+2026-11-02 21:11:39,454 INFO   N_s=128 combo 11/20: H_factor=0.0530
+2026-11-02 21:11:41,959 INFO   N_s=128 combo 12/20: H_factor=0.0539
+2026-11-02 21:11:44,375 INFO   N_s=128 combo 13/20: H_factor=0.0514
+2026-11-02 21:11:46,739 INFO   N_s=128 combo 14/20: H_factor=0.0513
+2026-11-02 21:11:49,322 INFO   N_s=128 combo 15/20: H_factor=0.0503
+2026-11-02 21:11:51,754 INFO   N_s=128 combo 16/20: H_factor=0.0522
+2026-11-02 21:11:54,190 INFO   N_s=128 combo 17/20: H_factor=0.0519
+2026-11-02 21:11:56,686 INFO   N_s=128 combo 18/20: H_factor=0.0526
+2026-11-02 21:11:59,103 INFO   N_s=128 combo 19/20: H_factor=0.0528
+2026-11-02 21:12:01,581 INFO   N_s=128 combo 20/20: H_factor=0.0499
+2026-11-02 21:12:01,582 INFO N_s=128: mean H=0.0520  [0.0499, 0.0542]
+2026-11-02 21:12:01,582 WARNING N_s=256 exceeds available tickers (147); skipping.
+2026-11-02 21:12:01,582 INFO Metrics saved to results/exp5_metrics.json
+2026-11-02 21:12:01,584 INFO Table saved to results/exp5_table.csv
+2026-11-02 21:12:01,923 INFO Plot saved to results/exp5_empirical_factor_hurst.png
+
+=== Exp 5 Results ===
+  S&P500 index H = 0.0464
+  N_s=  2: mean H = 0.0352  [0.0211, 0.0755]
+  N_s=  4: mean H = 0.0402  [0.0299, 0.0525]
+  N_s=  8: mean H = 0.0408  [0.0318, 0.0574]
+  N_s= 16: mean H = 0.0441  [0.0368, 0.0525]
+  N_s= 32: mean H = 0.0473  [0.0397, 0.0538]
+  N_s= 64: mean H = 0.0494  [0.0451, 0.0516]
+  N_s=128: mean H = 0.0520  [0.0499, 0.0542]
+  N_s=256: mean H = nan  [nan, nan]

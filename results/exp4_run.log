@@ -1,0 +1,19 @@
+nohup: ignoring input
+2026-11-02 18:42:22,783 INFO Exp4 Scenario A: H_i_true=0.03, N=300, L=32768, T=32768, MC_REPS=1
+2026-11-02 18:42:22,783 INFO   Scenario A rep 1/1 — simulating ...
+2026-11-02 18:42:30,303 INFO   Scenario A rep 1/1 — calibrating (300 GMM calls) ...
+2026-11-02 18:44:30,421 INFO   Scenario A rep 1/1 done: mean H_i=0.0531, std=0.0640
+2026-11-02 18:44:30,422 INFO Scenario A complete: mean H_i=0.0531 ± 0.0640 (true=0.03, n=300)
+2026-11-02 18:44:30,422 INFO Exp4 Scenario B: H_i_true=0.07, N=300, L=32768, T=32768, MC_REPS=1
+2026-11-02 18:44:30,422 INFO   Scenario B rep 1/1 — simulating ...
+2026-11-02 18:44:35,194 INFO   Scenario B rep 1/1 — calibrating (300 GMM calls) ...
+2026-11-02 18:45:57,500 INFO   Scenario B rep 1/1 done: mean H_i=0.0694, std=0.0700
+2026-11-02 18:45:57,500 INFO Scenario B complete: mean H_i=0.0694 ± 0.0700 (true=0.07, n=300)
+2026-11-02 18:45:57,501 INFO Metrics saved to results/exp4_metrics.json
+2026-11-02 18:45:58,414 INFO Plot saved to results/exp4_idiosyncratic_hurst.png
+
+=== Exp 4 Results: Idiosyncratic Hurst Calibration Accuracy ===
+Scenario       H_i true   mean H_i    std H_i      N
+----------------------------------------------------
+Scenario A        0.030     0.0531     0.0640    300
+Scenario B        0.070     0.0694     0.0700    300

@@ -1,0 +1,703 @@
+nohup: ignoring input
+2026-11-02 19:30:47,848 INFO Exp3: H_true=0.08  N=2 — starting 20 MC reps
+2026-11-02 19:30:47,848 INFO   H_true=0.08  N=2  rep 1/20
+2026-11-02 19:30:49,234 INFO     H_index_est=0.0067  H_factor_est=0.0059
+2026-11-02 19:30:49,234 INFO   H_true=0.08  N=2  rep 2/20
+2026-11-02 19:30:50,174 INFO     H_index_est=0.0075  H_factor_est=0.0075
+2026-11-02 19:30:50,175 INFO   H_true=0.08  N=2  rep 3/20
+2026-11-02 19:30:51,208 INFO     H_index_est=0.0092  H_factor_est=0.0190
+2026-11-02 19:30:51,208 INFO   H_true=0.08  N=2  rep 4/20
+2026-11-02 19:30:52,270 INFO     H_index_est=0.0082  H_factor_est=0.0073
+2026-11-02 19:30:52,270 INFO   H_true=0.08  N=2  rep 5/20
+2026-11-02 19:30:53,242 INFO     H_index_est=0.0061  H_factor_est=0.0058
+2026-11-02 19:30:53,242 INFO   H_true=0.08  N=2  rep 6/20
+2026-11-02 19:30:54,213 INFO     H_index_est=0.0248  H_factor_est=0.0092
+2026-11-02 19:30:54,213 INFO   H_true=0.08  N=2  rep 7/20
+2026-11-02 19:30:54,835 INFO     H_index_est=0.0414  H_factor_est=0.0236
+2026-11-02 19:30:54,835 INFO   H_true=0.08  N=2  rep 8/20
+2026-11-02 19:30:55,756 INFO     H_index_est=0.0083  H_factor_est=0.0065
+2026-11-02 19:30:55,756 INFO   H_true=0.08  N=2  rep 9/20
+2026-11-02 19:30:57,154 INFO     H_index_est=0.0073  H_factor_est=0.0107
+2026-11-02 19:30:57,154 INFO   H_true=0.08  N=2  rep 10/20
+2026-11-02 19:30:58,186 INFO     H_index_est=0.0074  H_factor_est=0.0067
+2026-11-02 19:30:58,186 INFO   H_true=0.08  N=2  rep 11/20
+2026-11-02 19:30:59,215 INFO     H_index_est=0.0099  H_factor_est=0.0073
+2026-11-02 19:30:59,215 INFO   H_true=0.08  N=2  rep 12/20
+2026-11-02 19:31:00,290 INFO     H_index_est=0.0080  H_factor_est=0.0063
+2026-11-02 19:31:00,290 INFO   H_true=0.08  N=2  rep 13/20
+2026-11-02 19:31:01,436 INFO     H_index_est=0.0100  H_factor_est=0.0083
+2026-11-02 19:31:01,436 INFO   H_true=0.08  N=2  rep 14/20
+2026-11-02 19:31:02,401 INFO     H_index_est=0.0057  H_factor_est=0.0047
+2026-11-02 19:31:02,401 INFO   H_true=0.08  N=2  rep 15/20
+2026-11-02 19:31:03,395 INFO     H_index_est=0.0246  H_factor_est=0.0074
+2026-11-02 19:31:03,395 INFO   H_true=0.08  N=2  rep 16/20
+2026-11-02 19:31:04,166 INFO     H_index_est=0.0237  H_factor_est=0.0075
+2026-11-02 19:31:04,166 INFO   H_true=0.08  N=2  rep 17/20
+2026-11-02 19:31:04,989 INFO     H_index_est=0.0040  H_factor_est=0.0042
+2026-11-02 19:31:04,990 INFO   H_true=0.08  N=2  rep 18/20
+2026-11-02 19:31:06,047 INFO     H_index_est=0.0053  H_factor_est=0.0057
+2026-11-02 19:31:06,047 INFO   H_true=0.08  N=2  rep 19/20
+2026-11-02 19:31:07,378 INFO     H_index_est=0.0098  H_factor_est=0.0072
+2026-11-02 19:31:07,378 INFO   H_true=0.08  N=2  rep 20/20
+2026-11-02 19:31:08,244 INFO     H_index_est=0.0072  H_factor_est=0.0069
+2026-11-02 19:31:08,245 INFO   N=2 summary: H_index=0.0117 [0.0046,0.0336]  H_factor=0.0084 [0.0044,0.0214]
+2026-11-02 19:31:08,246 INFO Exp3: H_true=0.08  N=4 — starting 20 MC reps
+2026-11-02 19:31:08,246 INFO   H_true=0.08  N=4  rep 1/20
+2026-11-02 19:31:09,543 INFO     H_index_est=0.0095  H_factor_est=0.0055
+2026-11-02 19:31:09,543 INFO   H_true=0.08  N=4  rep 2/20
+2026-11-02 19:31:10,942 INFO     H_index_est=0.0336  H_factor_est=0.0079
+2026-11-02 19:31:10,942 INFO   H_true=0.08  N=4  rep 3/20
+2026-11-02 19:31:12,935 INFO     H_index_est=0.0119  H_factor_est=0.0082
+2026-11-02 19:31:12,936 INFO   H_true=0.08  N=4  rep 4/20
+2026-11-02 19:31:14,701 INFO     H_index_est=0.0116  H_factor_est=0.0084
+2026-11-02 19:31:14,701 INFO   H_true=0.08  N=4  rep 5/20
+2026-11-02 19:31:16,846 INFO     H_index_est=0.0173  H_factor_est=0.0061
+2026-11-02 19:31:16,846 INFO   H_true=0.08  N=4  rep 6/20
+2026-11-02 19:31:19,199 INFO     H_index_est=0.0122  H_factor_est=0.0097
+2026-11-02 19:31:19,199 INFO   H_true=0.08  N=4  rep 7/20
+2026-11-02 19:31:21,611 INFO     H_index_est=0.0102  H_factor_est=0.0059
+2026-11-02 19:31:21,611 INFO   H_true=0.08  N=4  rep 8/20
+2026-11-02 19:31:23,427 INFO     H_index_est=0.0089  H_factor_est=0.0057
+2026-11-02 19:31:23,427 INFO   H_true=0.08  N=4  rep 9/20
+2026-11-02 19:31:25,005 INFO     H_index_est=0.0295  H_factor_est=0.0237
+2026-11-02 19:31:25,005 INFO   H_true=0.08  N=4  rep 10/20
+2026-11-02 19:31:26,219 INFO     H_index_est=0.0462  H_factor_est=0.0145
+2026-11-02 19:31:26,219 INFO   H_true=0.08  N=4  rep 11/20
+2026-11-02 19:31:28,408 INFO     H_index_est=0.0273  H_factor_est=0.0083
+2026-11-02 19:31:28,408 INFO   H_true=0.08  N=4  rep 12/20
+2026-11-02 19:31:29,328 INFO     H_index_est=0.0526  H_factor_est=0.0639
+2026-11-02 19:31:29,328 INFO   H_true=0.08  N=4  rep 13/20
+2026-11-02 19:31:30,788 INFO     H_index_est=0.0122  H_factor_est=0.0072
+2026-11-02 19:31:30,788 INFO   H_true=0.08  N=4  rep 14/20
+2026-11-02 19:31:33,306 INFO     H_index_est=0.0121  H_factor_est=0.0061
+2026-11-02 19:31:33,306 INFO   H_true=0.08  N=4  rep 15/20
+2026-11-02 19:31:35,152 INFO     H_index_est=0.0283  H_factor_est=0.0075
+2026-11-02 19:31:35,152 INFO   H_true=0.08  N=4  rep 16/20
+2026-11-02 19:31:37,086 INFO     H_index_est=0.0225  H_factor_est=0.0084
+2026-11-02 19:31:37,086 INFO   H_true=0.08  N=4  rep 17/20
+2026-11-02 19:31:38,240 INFO     H_index_est=0.0941  H_factor_est=0.0067
+2026-11-02 19:31:38,240 INFO   H_true=0.08  N=4  rep 18/20
+2026-11-02 19:31:40,106 INFO     H_index_est=0.0102  H_factor_est=0.0066
+2026-11-02 19:31:40,106 INFO   H_true=0.08  N=4  rep 19/20
+2026-11-02 19:31:41,215 INFO     H_index_est=0.0902  H_factor_est=0.0343
+2026-11-02 19:31:41,215 INFO   H_true=0.08  N=4  rep 20/20
+2026-11-02 19:31:42,645 INFO     H_index_est=0.0104  H_factor_est=0.0094
+2026-11-02 19:31:42,645 INFO   N=4 summary: H_index=0.0276 [0.0092,0.0923]  H_factor=0.0127 [0.0056,0.0499]
+2026-11-02 19:31:42,645 INFO Exp3: H_true=0.08  N=8 — starting 20 MC reps
+2026-11-02 19:31:42,645 INFO   H_true=0.08  N=8  rep 1/20
+2026-11-02 19:31:43,493 INFO     H_index_est=0.1246  H_factor_est=0.0496
+2026-11-02 19:31:43,493 INFO   H_true=0.08  N=8  rep 2/20
+2026-11-02 19:31:44,850 INFO     H_index_est=0.0596  H_factor_est=0.0095
+2026-11-02 19:31:44,850 INFO   H_true=0.08  N=8  rep 3/20
+2026-11-02 19:31:46,089 INFO     H_index_est=0.0502  H_factor_est=0.0255
+2026-11-02 19:31:46,090 INFO   H_true=0.08  N=8  rep 4/20
+2026-11-02 19:31:46,829 INFO     H_index_est=0.0865  H_factor_est=0.0597
+2026-11-02 19:31:46,829 INFO   H_true=0.08  N=8  rep 5/20
+2026-11-02 19:31:48,296 INFO     H_index_est=0.0119  H_factor_est=0.0086
+2026-11-02 19:31:48,296 INFO   H_true=0.08  N=8  rep 6/20
+2026-11-02 19:31:50,026 INFO     H_index_est=0.0128  H_factor_est=0.0071
+2026-11-02 19:31:50,026 INFO   H_true=0.08  N=8  rep 7/20
+2026-11-02 19:31:51,192 INFO     H_index_est=0.0826  H_factor_est=0.0596
+2026-11-02 19:31:51,192 INFO   H_true=0.08  N=8  rep 8/20
+2026-11-02 19:31:53,193 INFO     H_index_est=0.0166  H_factor_est=0.0187
+2026-11-02 19:31:53,193 INFO   H_true=0.08  N=8  rep 9/20
+2026-11-02 19:31:54,715 INFO     H_index_est=0.0155  H_factor_est=0.0112
+2026-11-02 19:31:54,715 INFO   H_true=0.08  N=8  rep 10/20
+2026-11-02 19:31:55,620 INFO     H_index_est=0.1376  H_factor_est=0.0723
+2026-11-02 19:31:55,620 INFO   H_true=0.08  N=8  rep 11/20
+2026-11-02 19:31:57,002 INFO     H_index_est=0.0554  H_factor_est=0.0078
+2026-11-02 19:31:57,002 INFO   H_true=0.08  N=8  rep 12/20
+2026-11-02 19:31:57,918 INFO     H_index_est=0.0704  H_factor_est=0.0542
+2026-11-02 19:31:57,918 INFO   H_true=0.08  N=8  rep 13/20
+2026-11-02 19:31:58,902 INFO     H_index_est=0.0828  H_factor_est=0.0621
+2026-11-02 19:31:58,902 INFO   H_true=0.08  N=8  rep 14/20
+2026-11-02 19:32:01,007 INFO     H_index_est=0.0270  H_factor_est=0.0094
+2026-11-02 19:32:01,007 INFO   H_true=0.08  N=8  rep 15/20
+2026-11-02 19:32:02,352 INFO     H_index_est=0.0199  H_factor_est=0.0563
+2026-11-02 19:32:02,352 INFO   H_true=0.08  N=8  rep 16/20
+2026-11-02 19:32:03,985 INFO     H_index_est=0.0147  H_factor_est=0.0085
+2026-11-02 19:32:03,985 INFO   H_true=0.08  N=8  rep 17/20
+2026-11-02 19:32:05,589 INFO     H_index_est=0.0325  H_factor_est=0.0085
+2026-11-02 19:32:05,589 INFO   H_true=0.08  N=8  rep 18/20
+2026-11-02 19:32:07,022 INFO     H_index_est=0.0110  H_factor_est=0.0081
+2026-11-02 19:32:07,022 INFO   H_true=0.08  N=8  rep 19/20
+2026-11-02 19:32:09,153 INFO     H_index_est=0.0141  H_factor_est=0.0103
+2026-11-02 19:32:09,153 INFO   H_true=0.08  N=8  rep 20/20
+2026-11-02 19:32:11,143 INFO     H_index_est=0.0159  H_factor_est=0.0102
+2026-11-02 19:32:11,143 INFO   N=8 summary: H_index=0.0471 [0.0114,0.1314]  H_factor=0.0279 [0.0075,0.0675]
+2026-11-02 19:32:11,144 INFO Exp3: H_true=0.08  N=16 — starting 20 MC reps
+2026-11-02 19:32:11,144 INFO   H_true=0.08  N=16  rep 1/20
+2026-11-02 19:32:12,518 INFO     H_index_est=0.0725  H_factor_est=0.0120
+2026-11-02 19:32:12,518 INFO   H_true=0.08  N=16  rep 2/20
+2026-11-02 19:32:14,116 INFO     H_index_est=0.0162  H_factor_est=0.0083
+2026-11-02 19:32:14,116 INFO   H_true=0.08  N=16  rep 3/20
+2026-11-02 19:32:15,809 INFO     H_index_est=0.0154  H_factor_est=0.0286
+2026-11-02 19:32:15,809 INFO   H_true=0.08  N=16  rep 4/20
+2026-11-02 19:32:17,450 INFO     H_index_est=0.0753  H_factor_est=0.0109
+2026-11-02 19:32:17,450 INFO   H_true=0.08  N=16  rep 5/20
+2026-11-02 19:32:18,917 INFO     H_index_est=0.0330  H_factor_est=0.0125
+2026-11-02 19:32:18,917 INFO   H_true=0.08  N=16  rep 6/20
+2026-11-02 19:32:20,260 INFO     H_index_est=0.0276  H_factor_est=0.0591
+2026-11-02 19:32:20,260 INFO   H_true=0.08  N=16  rep 7/20
+2026-11-02 19:32:21,800 INFO     H_index_est=0.0163  H_factor_est=0.0334
+2026-11-02 19:32:21,800 INFO   H_true=0.08  N=16  rep 8/20
+2026-11-02 19:32:23,827 INFO     H_index_est=0.0206  H_factor_est=0.0106
+2026-11-02 19:32:23,827 INFO   H_true=0.08  N=16  rep 9/20
+2026-11-02 19:32:25,744 INFO     H_index_est=0.0162  H_factor_est=0.0142
+2026-11-02 19:32:25,744 INFO   H_true=0.08  N=16  rep 10/20
+2026-11-02 19:32:27,552 INFO     H_index_est=0.0135  H_factor_est=0.0085
+2026-11-02 19:32:27,552 INFO   H_true=0.08  N=16  rep 11/20
+2026-11-02 19:32:28,990 INFO     H_index_est=0.0162  H_factor_est=0.0512
+2026-11-02 19:32:28,990 INFO   H_true=0.08  N=16  rep 12/20
+2026-11-02 19:32:29,933 INFO     H_index_est=0.0763  H_factor_est=0.0488
+2026-11-02 19:32:29,933 INFO   H_true=0.08  N=16  rep 13/20
+2026-11-02 19:32:31,646 INFO     H_index_est=0.0153  H_factor_est=0.0097
+2026-11-02 19:32:31,646 INFO   H_true=0.08  N=16  rep 14/20
+2026-11-02 19:32:33,300 INFO     H_index_est=0.0263  H_factor_est=0.0091
+2026-11-02 19:32:33,300 INFO   H_true=0.08  N=16  rep 15/20
+2026-11-02 19:32:35,035 INFO     H_index_est=0.0384  H_factor_est=0.0152
+2026-11-02 19:32:35,035 INFO   H_true=0.08  N=16  rep 16/20
+2026-11-02 19:32:36,536 INFO     H_index_est=0.0454  H_factor_est=0.0091
+2026-11-02 19:32:36,536 INFO   H_true=0.08  N=16  rep 17/20
+2026-11-02 19:32:38,314 INFO     H_index_est=0.0155  H_factor_est=0.0094
+2026-11-02 19:32:38,314 INFO   H_true=0.08  N=16  rep 18/20
+2026-11-02 19:32:39,388 INFO     H_index_est=0.0645  H_factor_est=0.0388
+2026-11-02 19:32:39,388 INFO   H_true=0.08  N=16  rep 19/20
+2026-11-02 19:32:41,201 INFO     H_index_est=0.0166  H_factor_est=0.0108
+2026-11-02 19:32:41,201 INFO   H_true=0.08  N=16  rep 20/20
+2026-11-02 19:32:42,784 INFO     H_index_est=0.0122  H_factor_est=0.0079
+2026-11-02 19:32:42,785 INFO   N=16 summary: H_index=0.0317 [0.0128,0.0758]  H_factor=0.0204 [0.0081,0.0553]
+2026-11-02 19:32:42,785 INFO Exp3: H_true=0.08  N=32 — starting 20 MC reps
+2026-11-02 19:32:42,785 INFO   H_true=0.08  N=32  rep 1/20
+2026-11-02 19:32:43,750 INFO     H_index_est=0.1176  H_factor_est=0.0956
+2026-11-02 19:32:43,751 INFO   H_true=0.08  N=32  rep 2/20
+2026-11-02 19:32:45,352 INFO     H_index_est=0.0507  H_factor_est=0.0138
+2026-11-02 19:32:45,352 INFO   H_true=0.08  N=32  rep 3/20
+2026-11-02 19:32:47,046 INFO     H_index_est=0.0523  H_factor_est=0.0219
+2026-11-02 19:32:47,046 INFO   H_true=0.08  N=32  rep 4/20
+2026-11-02 19:32:48,744 INFO     H_index_est=0.0193  H_factor_est=0.0139
+2026-11-02 19:32:48,745 INFO   H_true=0.08  N=32  rep 5/20
+2026-11-02 19:32:50,584 INFO     H_index_est=0.0131  H_factor_est=0.0100
+2026-11-02 19:32:50,584 INFO   H_true=0.08  N=32  rep 6/20
+2026-11-02 19:32:52,271 INFO     H_index_est=0.0420  H_factor_est=0.0350
+2026-11-02 19:32:52,271 INFO   H_true=0.08  N=32  rep 7/20
+2026-11-02 19:32:53,990 INFO     H_index_est=0.0418  H_factor_est=0.0316
+2026-11-02 19:32:53,990 INFO   H_true=0.08  N=32  rep 8/20
+2026-11-02 19:32:55,347 INFO     H_index_est=0.0426  H_factor_est=0.0689
+2026-11-02 19:32:55,347 INFO   H_true=0.08  N=32  rep 9/20
+2026-11-02 19:32:57,309 INFO     H_index_est=0.0190  H_factor_est=0.0117
+2026-11-02 19:32:57,309 INFO   H_true=0.08  N=32  rep 10/20
+2026-11-02 19:32:59,015 INFO     H_index_est=0.0176  H_factor_est=0.0133
+2026-11-02 19:32:59,015 INFO   H_true=0.08  N=32  rep 11/20
+2026-11-02 19:33:00,930 INFO     H_index_est=0.0162  H_factor_est=0.0226
+2026-11-02 19:33:00,930 INFO   H_true=0.08  N=32  rep 12/20
+2026-11-02 19:33:02,735 INFO     H_index_est=0.0149  H_factor_est=0.0110
+2026-11-02 19:33:02,735 INFO   H_true=0.08  N=32  rep 13/20
+2026-11-02 19:33:04,309 INFO     H_index_est=0.0152  H_factor_est=0.0109
+2026-11-02 19:33:04,309 INFO   H_true=0.08  N=32  rep 14/20
+2026-11-02 19:33:05,946 INFO     H_index_est=0.0162  H_factor_est=0.0117
+2026-11-02 19:33:05,946 INFO   H_true=0.08  N=32  rep 15/20
+2026-11-02 19:33:07,123 INFO     H_index_est=0.1100  H_factor_est=0.1138
+2026-11-02 19:33:07,123 INFO   H_true=0.08  N=32  rep 16/20
+2026-11-02 19:33:08,283 INFO     H_index_est=0.0674  H_factor_est=0.0658
+2026-11-02 19:33:08,283 INFO   H_true=0.08  N=32  rep 17/20
+2026-11-02 19:33:09,414 INFO     H_index_est=0.0183  H_factor_est=0.0125
+2026-11-02 19:33:09,414 INFO   H_true=0.08  N=32  rep 18/20
+2026-11-02 19:33:10,464 INFO     H_index_est=0.0254  H_factor_est=0.0205
+2026-11-02 19:33:10,464 INFO   H_true=0.08  N=32  rep 19/20
+2026-11-02 19:33:11,065 INFO     H_index_est=0.0533  H_factor_est=0.0682
+2026-11-02 19:33:11,065 INFO   H_true=0.08  N=32  rep 20/20
+2026-11-02 19:33:12,065 INFO     H_index_est=0.0156  H_factor_est=0.0211
+2026-11-02 19:33:12,066 INFO   N=32 summary: H_index=0.0384 [0.0140,0.1140]  H_factor=0.0337 [0.0105,0.1052]
+2026-11-02 19:33:12,066 INFO Exp3: H_true=0.08  N=64 — starting 20 MC reps
+2026-11-02 19:33:12,066 INFO   H_true=0.08  N=64  rep 1/20
+2026-11-02 19:33:13,061 INFO     H_index_est=0.1095  H_factor_est=0.1238
+2026-11-02 19:33:13,061 INFO   H_true=0.08  N=64  rep 2/20
+2026-11-02 19:33:14,169 INFO     H_index_est=0.0369  H_factor_est=0.0396
+2026-11-02 19:33:14,169 INFO   H_true=0.08  N=64  rep 3/20
+2026-11-02 19:33:15,577 INFO     H_index_est=0.0171  H_factor_est=0.0152
+2026-11-02 19:33:15,577 INFO   H_true=0.08  N=64  rep 4/20
+2026-11-02 19:33:16,930 INFO     H_index_est=0.0179  H_factor_est=0.0152
+2026-11-02 19:33:16,930 INFO   H_true=0.08  N=64  rep 5/20
+2026-11-02 19:33:18,151 INFO     H_index_est=0.0310  H_factor_est=0.0240
+2026-11-02 19:33:18,151 INFO   H_true=0.08  N=64  rep 6/20
+2026-11-02 19:33:19,303 INFO     H_index_est=0.0175  H_factor_est=0.0295
+2026-11-02 19:33:19,303 INFO   H_true=0.08  N=64  rep 7/20
+2026-11-02 19:33:20,488 INFO     H_index_est=0.0128  H_factor_est=0.0099
+2026-11-02 19:33:20,488 INFO   H_true=0.08  N=64  rep 8/20
+2026-11-02 19:33:21,642 INFO     H_index_est=0.0429  H_factor_est=0.0428
+2026-11-02 19:33:21,642 INFO   H_true=0.08  N=64  rep 9/20
+2026-11-02 19:33:23,048 INFO     H_index_est=0.0186  H_factor_est=0.0142
+2026-11-02 19:33:23,048 INFO   H_true=0.08  N=64  rep 10/20
+2026-11-02 19:33:24,247 INFO     H_index_est=0.0432  H_factor_est=0.0322
+2026-11-02 19:33:24,247 INFO   H_true=0.08  N=64  rep 11/20
+2026-11-02 19:33:25,581 INFO     H_index_est=0.0275  H_factor_est=0.0161
+2026-11-02 19:33:25,582 INFO   H_true=0.08  N=64  rep 12/20
+2026-11-02 19:33:26,895 INFO     H_index_est=0.0133  H_factor_est=0.0133
+2026-11-02 19:33:26,895 INFO   H_true=0.08  N=64  rep 13/20
+2026-11-02 19:33:28,097 INFO     H_index_est=0.0597  H_factor_est=0.0635
+2026-11-02 19:33:28,098 INFO   H_true=0.08  N=64  rep 14/20
+2026-11-02 19:33:29,197 INFO     H_index_est=0.0980  H_factor_est=0.0959
+2026-11-02 19:33:29,197 INFO   H_true=0.08  N=64  rep 15/20
+2026-11-02 19:33:30,615 INFO     H_index_est=0.0185  H_factor_est=0.0132
+2026-11-02 19:33:30,615 INFO   H_true=0.08  N=64  rep 16/20
+2026-11-02 19:33:31,861 INFO     H_index_est=0.0163  H_factor_est=0.0137
+2026-11-02 19:33:31,861 INFO   H_true=0.08  N=64  rep 17/20
+2026-11-02 19:33:33,389 INFO     H_index_est=0.0105  H_factor_est=0.0118
+2026-11-02 19:33:33,389 INFO   H_true=0.08  N=64  rep 18/20
+2026-11-02 19:33:34,404 INFO     H_index_est=0.0690  H_factor_est=0.0458
+2026-11-02 19:33:34,404 INFO   H_true=0.08  N=64  rep 19/20
+2026-11-02 19:33:35,751 INFO     H_index_est=0.0126  H_factor_est=0.0115
+2026-11-02 19:33:35,752 INFO   H_true=0.08  N=64  rep 20/20
+2026-11-02 19:33:37,048 INFO     H_index_est=0.0170  H_factor_est=0.0141
+2026-11-02 19:33:37,049 INFO   N=64 summary: H_index=0.0345 [0.0115,0.1040]  H_factor=0.0323 [0.0107,0.1106]
+2026-11-02 19:33:37,049 INFO Exp3: H_true=0.08  N=128 — starting 20 MC reps
+2026-11-02 19:33:37,049 INFO   H_true=0.08  N=128  rep 1/20
+2026-11-02 19:33:38,815 INFO     H_index_est=0.0572  H_factor_est=0.0273
+2026-11-02 19:33:38,815 INFO   H_true=0.08  N=128  rep 2/20
+2026-11-02 19:33:41,127 INFO     H_index_est=0.0186  H_factor_est=0.0160
+2026-11-02 19:33:41,127 INFO   H_true=0.08  N=128  rep 3/20
+2026-11-02 19:33:42,874 INFO     H_index_est=0.0386  H_factor_est=0.0679
+2026-11-02 19:33:42,874 INFO   H_true=0.08  N=128  rep 4/20
+2026-11-02 19:33:44,532 INFO     H_index_est=0.0494  H_factor_est=0.0280
+2026-11-02 19:33:44,532 INFO   H_true=0.08  N=128  rep 5/20
+2026-11-02 19:33:46,568 INFO     H_index_est=0.0124  H_factor_est=0.0130
+2026-11-02 19:33:46,569 INFO   H_true=0.08  N=128  rep 6/20
+2026-11-02 19:33:48,060 INFO     H_index_est=0.0603  H_factor_est=0.0597
+2026-11-02 19:33:48,060 INFO   H_true=0.08  N=128  rep 7/20
+2026-11-02 19:33:49,839 INFO     H_index_est=0.0609  H_factor_est=0.0416
+2026-11-02 19:33:49,839 INFO   H_true=0.08  N=128  rep 8/20
+2026-11-02 19:33:51,517 INFO     H_index_est=0.0969  H_factor_est=0.0632
+2026-11-02 19:33:51,517 INFO   H_true=0.08  N=128  rep 9/20
+2026-11-02 19:33:53,357 INFO     H_index_est=0.0128  H_factor_est=0.0144
+2026-11-02 19:33:53,357 INFO   H_true=0.08  N=128  rep 10/20
+2026-11-02 19:33:55,305 INFO     H_index_est=0.0167  H_factor_est=0.0164
+2026-11-02 19:33:55,305 INFO   H_true=0.08  N=128  rep 11/20
+2026-11-02 19:33:57,056 INFO     H_index_est=0.0191  H_factor_est=0.0380
+2026-11-02 19:33:57,056 INFO   H_true=0.08  N=128  rep 12/20
+2026-11-02 19:33:58,646 INFO     H_index_est=0.0783  H_factor_est=0.0557
+2026-11-02 19:33:58,646 INFO   H_true=0.08  N=128  rep 13/20
+2026-11-02 19:34:00,399 INFO     H_index_est=0.0318  H_factor_est=0.0524
+2026-11-02 19:34:00,399 INFO   H_true=0.08  N=128  rep 14/20
+2026-11-02 19:34:02,229 INFO     H_index_est=0.0383  H_factor_est=0.0250
+2026-11-02 19:34:02,230 INFO   H_true=0.08  N=128  rep 15/20
+2026-11-02 19:34:04,379 INFO     H_index_est=0.0201  H_factor_est=0.0156
+2026-11-02 19:34:04,379 INFO   H_true=0.08  N=128  rep 16/20
+2026-11-02 19:34:06,256 INFO     H_index_est=0.0124  H_factor_est=0.0115
+2026-11-02 19:34:06,256 INFO   H_true=0.08  N=128  rep 17/20
+2026-11-02 19:34:08,153 INFO     H_index_est=0.0183  H_factor_est=0.0200
+2026-11-02 19:34:08,153 INFO   H_true=0.08  N=128  rep 18/20
+2026-11-02 19:34:09,835 INFO     H_index_est=0.0464  H_factor_est=0.0396
+2026-11-02 19:34:09,835 INFO   H_true=0.08  N=128  rep 19/20
+2026-11-02 19:34:11,495 INFO     H_index_est=0.0672  H_factor_est=0.0621
+2026-11-02 19:34:11,496 INFO   H_true=0.08  N=128  rep 20/20
+2026-11-02 19:34:13,225 INFO     H_index_est=0.0633  H_factor_est=0.0435
+2026-11-02 19:34:13,226 INFO   N=128 summary: H_index=0.0410 [0.0124,0.0881]  H_factor=0.0355 [0.0122,0.0657]
+2026-11-02 19:34:13,226 INFO Exp3: H_true=0.08  N=256 — starting 20 MC reps
+2026-11-02 19:34:13,226 INFO   H_true=0.08  N=256  rep 1/20
+2026-11-02 19:34:16,453 INFO     H_index_est=0.0167  H_factor_est=0.0154
+2026-11-02 19:34:16,453 INFO   H_true=0.08  N=256  rep 2/20
+2026-11-02 19:34:19,549 INFO     H_index_est=0.0284  H_factor_est=0.0277
+2026-11-02 19:34:19,549 INFO   H_true=0.08  N=256  rep 3/20
+2026-11-02 19:34:23,401 INFO     H_index_est=0.0403  H_factor_est=0.0322
+2026-11-02 19:34:23,401 INFO   H_true=0.08  N=256  rep 4/20
+2026-11-02 19:34:26,336 INFO     H_index_est=0.0553  H_factor_est=0.0309
+2026-11-02 19:34:26,336 INFO   H_true=0.08  N=256  rep 5/20
+2026-11-02 19:34:29,335 INFO     H_index_est=0.0620  H_factor_est=0.0513
+2026-11-02 19:34:29,335 INFO   H_true=0.08  N=256  rep 6/20
+2026-11-02 19:34:32,492 INFO     H_index_est=0.0171  H_factor_est=0.0171
+2026-11-02 19:34:32,492 INFO   H_true=0.08  N=256  rep 7/20
+2026-11-02 19:34:35,268 INFO     H_index_est=0.0146  H_factor_est=0.0148
+2026-11-02 19:34:35,268 INFO   H_true=0.08  N=256  rep 8/20
+2026-11-02 19:34:37,945 INFO     H_index_est=0.0415  H_factor_est=0.0608
+2026-11-02 19:34:37,945 INFO   H_true=0.08  N=256  rep 9/20
+2026-11-02 19:34:40,905 INFO     H_index_est=0.0548  H_factor_est=0.0538
+2026-11-02 19:34:40,905 INFO   H_true=0.08  N=256  rep 10/20
+2026-11-02 19:34:43,797 INFO     H_index_est=0.0220  H_factor_est=0.0294
+2026-11-02 19:34:43,797 INFO   H_true=0.08  N=256  rep 11/20
+2026-11-02 19:34:46,929 INFO     H_index_est=0.0195  H_factor_est=0.0185
+2026-11-02 19:34:46,929 INFO   H_true=0.08  N=256  rep 12/20
+2026-11-02 19:34:50,740 INFO     H_index_est=0.0135  H_factor_est=0.0144
+2026-11-02 19:34:50,740 INFO   H_true=0.08  N=256  rep 13/20
+2026-11-02 19:34:54,616 INFO     H_index_est=0.0369  H_factor_est=0.0334
+2026-11-02 19:34:54,616 INFO   H_true=0.08  N=256  rep 14/20
+2026-11-02 19:34:57,639 INFO     H_index_est=0.0142  H_factor_est=0.0130
+2026-11-02 19:34:57,639 INFO   H_true=0.08  N=256  rep 15/20
+2026-11-02 19:35:01,178 INFO     H_index_est=0.0950  H_factor_est=0.0907
+2026-11-02 19:35:01,178 INFO   H_true=0.08  N=256  rep 16/20
+2026-11-02 19:35:04,840 INFO     H_index_est=0.0146  H_factor_est=0.0139
+2026-11-02 19:35:04,840 INFO   H_true=0.08  N=256  rep 17/20
+2026-11-02 19:35:08,641 INFO     H_index_est=0.0403  H_factor_est=0.0275
+2026-11-02 19:35:08,641 INFO   H_true=0.08  N=256  rep 18/20
+2026-11-02 19:35:11,795 INFO     H_index_est=0.0161  H_factor_est=0.0157
+2026-11-02 19:35:11,795 INFO   H_true=0.08  N=256  rep 19/20
+2026-11-02 19:35:14,669 INFO     H_index_est=0.0145  H_factor_est=0.0135
+2026-11-02 19:35:14,669 INFO   H_true=0.08  N=256  rep 20/20
+2026-11-02 19:35:18,411 INFO     H_index_est=0.0161  H_factor_est=0.0159
+2026-11-02 19:35:18,412 INFO   N=256 summary: H_index=0.0317 [0.0138,0.0793]  H_factor=0.0295 [0.0133,0.0765]
+2026-11-02 19:35:18,412 INFO Exp3: H_true=0.11  N=2 — starting 20 MC reps
+2026-11-02 19:35:18,412 INFO   H_true=0.11  N=2  rep 1/20
+2026-11-02 19:35:19,292 INFO     H_index_est=0.0431  H_factor_est=0.0107
+2026-11-02 19:35:19,292 INFO   H_true=0.11  N=2  rep 2/20
+2026-11-02 19:35:20,579 INFO     H_index_est=0.0054  H_factor_est=0.0046
+2026-11-02 19:35:20,579 INFO   H_true=0.11  N=2  rep 3/20
+2026-11-02 19:35:21,712 INFO     H_index_est=0.0044  H_factor_est=0.0048
+2026-11-02 19:35:21,712 INFO   H_true=0.11  N=2  rep 4/20
+2026-11-02 19:35:22,479 INFO     H_index_est=0.0065  H_factor_est=0.0057
+2026-11-02 19:35:22,479 INFO   H_true=0.11  N=2  rep 5/20
+2026-11-02 19:35:23,628 INFO     H_index_est=0.0077  H_factor_est=0.0075
+2026-11-02 19:35:23,628 INFO   H_true=0.11  N=2  rep 6/20
+2026-11-02 19:35:25,029 INFO     H_index_est=0.0086  H_factor_est=0.0077
+2026-11-02 19:35:25,030 INFO   H_true=0.11  N=2  rep 7/20
+2026-11-02 19:35:25,952 INFO     H_index_est=0.0097  H_factor_est=0.0090
+2026-11-02 19:35:25,952 INFO   H_true=0.11  N=2  rep 8/20
+2026-11-02 19:35:26,927 INFO     H_index_est=0.0058  H_factor_est=0.0052
+2026-11-02 19:35:26,927 INFO   H_true=0.11  N=2  rep 9/20
+2026-11-02 19:35:27,476 INFO     H_index_est=0.0427  H_factor_est=0.0436
+2026-11-02 19:35:27,476 INFO   H_true=0.11  N=2  rep 10/20
+2026-11-02 19:35:28,401 INFO     H_index_est=0.0048  H_factor_est=0.0048
+2026-11-02 19:35:28,401 INFO   H_true=0.11  N=2  rep 11/20
+2026-11-02 19:35:29,477 INFO     H_index_est=0.0069  H_factor_est=0.0061
+2026-11-02 19:35:29,477 INFO   H_true=0.11  N=2  rep 12/20
+2026-11-02 19:35:30,553 INFO     H_index_est=0.0263  H_factor_est=0.0082
+2026-11-02 19:35:30,553 INFO   H_true=0.11  N=2  rep 13/20
+2026-11-02 19:35:31,041 INFO     H_index_est=0.0697  H_factor_est=0.0361
+2026-11-02 19:35:31,041 INFO   H_true=0.11  N=2  rep 14/20
+2026-11-02 19:35:32,123 INFO     H_index_est=0.0066  H_factor_est=0.0063
+2026-11-02 19:35:32,123 INFO   H_true=0.11  N=2  rep 15/20
+2026-11-02 19:35:33,110 INFO     H_index_est=0.0138  H_factor_est=0.0073
+2026-11-02 19:35:33,111 INFO   H_true=0.11  N=2  rep 16/20
+2026-11-02 19:35:34,136 INFO     H_index_est=0.0083  H_factor_est=0.0071
+2026-11-02 19:35:34,136 INFO   H_true=0.11  N=2  rep 17/20
+2026-11-02 19:35:34,941 INFO     H_index_est=0.0055  H_factor_est=0.0061
+2026-11-02 19:35:34,941 INFO   H_true=0.11  N=2  rep 18/20
+2026-11-02 19:35:36,272 INFO     H_index_est=0.0055  H_factor_est=0.0056
+2026-11-02 19:35:36,272 INFO   H_true=0.11  N=2  rep 19/20
+2026-11-02 19:35:37,014 INFO     H_index_est=0.0399  H_factor_est=0.0071
+2026-11-02 19:35:37,015 INFO   H_true=0.11  N=2  rep 20/20
+2026-11-02 19:35:37,950 INFO     H_index_est=0.0060  H_factor_est=0.0070
+2026-11-02 19:35:37,950 INFO   N=2 summary: H_index=0.0164 [0.0046,0.0571]  H_factor=0.0100 [0.0047,0.0400]
+2026-11-02 19:35:37,951 INFO Exp3: H_true=0.11  N=4 — starting 20 MC reps
+2026-11-02 19:35:37,951 INFO   H_true=0.11  N=4  rep 1/20
+2026-11-02 19:35:38,900 INFO     H_index_est=0.0363  H_factor_est=0.0083
+2026-11-02 19:35:38,901 INFO   H_true=0.11  N=4  rep 2/20
+2026-11-02 19:35:40,054 INFO     H_index_est=0.0115  H_factor_est=0.0068
+2026-11-02 19:35:40,054 INFO   H_true=0.11  N=4  rep 3/20
+2026-11-02 19:35:41,338 INFO     H_index_est=0.0100  H_factor_est=0.0070
+2026-11-02 19:35:41,338 INFO   H_true=0.11  N=4  rep 4/20
+2026-11-02 19:35:42,388 INFO     H_index_est=0.0680  H_factor_est=0.0092
+2026-11-02 19:35:42,388 INFO   H_true=0.11  N=4  rep 5/20
+2026-11-02 19:35:43,596 INFO     H_index_est=0.0075  H_factor_est=0.0053
+2026-11-02 19:35:43,596 INFO   H_true=0.11  N=4  rep 6/20
+2026-11-02 19:35:44,380 INFO     H_index_est=0.1099  H_factor_est=0.0089
+2026-11-02 19:35:44,381 INFO   H_true=0.11  N=4  rep 7/20
+2026-11-02 19:35:45,559 INFO     H_index_est=0.0069  H_factor_est=0.0046
+2026-11-02 19:35:45,559 INFO   H_true=0.11  N=4  rep 8/20
+2026-11-02 19:35:46,421 INFO     H_index_est=0.0173  H_factor_est=0.0208
+2026-11-02 19:35:46,421 INFO   H_true=0.11  N=4  rep 9/20
+2026-11-02 19:35:46,900 INFO     H_index_est=0.1418  H_factor_est=0.0878
+2026-11-02 19:35:46,900 INFO   H_true=0.11  N=4  rep 10/20
+2026-11-02 19:35:47,447 INFO     H_index_est=0.0718  H_factor_est=0.0692
+2026-11-02 19:35:47,447 INFO   H_true=0.11  N=4  rep 11/20
+2026-11-02 19:35:48,302 INFO     H_index_est=0.0077  H_factor_est=0.0052
+2026-11-02 19:35:48,302 INFO   H_true=0.11  N=4  rep 12/20
+2026-11-02 19:35:49,332 INFO     H_index_est=0.0080  H_factor_est=0.0052
+2026-11-02 19:35:49,332 INFO   H_true=0.11  N=4  rep 13/20
+2026-11-02 19:35:49,731 INFO     H_index_est=0.1046  H_factor_est=0.0843
+2026-11-02 19:35:49,731 INFO   H_true=0.11  N=4  rep 14/20
+2026-11-02 19:35:50,687 INFO     H_index_est=0.0087  H_factor_est=0.0062
+2026-11-02 19:35:50,688 INFO   H_true=0.11  N=4  rep 15/20
+2026-11-02 19:35:51,693 INFO     H_index_est=0.1170  H_factor_est=0.0097
+2026-11-02 19:35:51,693 INFO   H_true=0.11  N=4  rep 16/20
+2026-11-02 19:35:52,560 INFO     H_index_est=0.0102  H_factor_est=0.0072
+2026-11-02 19:35:52,560 INFO   H_true=0.11  N=4  rep 17/20
+2026-11-02 19:35:52,874 INFO     H_index_est=0.1266  H_factor_est=0.1030
+2026-11-02 19:35:52,874 INFO   H_true=0.11  N=4  rep 18/20
+2026-11-02 19:35:53,942 INFO     H_index_est=0.0085  H_factor_est=0.0060
+2026-11-02 19:35:53,942 INFO   H_true=0.11  N=4  rep 19/20
+2026-11-02 19:35:54,502 INFO     H_index_est=0.1352  H_factor_est=0.0269
+2026-11-02 19:35:54,502 INFO   H_true=0.11  N=4  rep 20/20
+2026-11-02 19:35:55,293 INFO     H_index_est=0.0118  H_factor_est=0.0166
+2026-11-02 19:35:55,293 INFO   N=4 summary: H_index=0.0510 [0.0072,0.1387]  H_factor=0.0249 [0.0049,0.0958]
+2026-11-02 19:35:55,293 INFO Exp3: H_true=0.11  N=8 — starting 20 MC reps
+2026-11-02 19:35:55,293 INFO   H_true=0.11  N=8  rep 1/20
+2026-11-02 19:35:56,207 INFO     H_index_est=0.0148  H_factor_est=0.0072
+2026-11-02 19:35:56,207 INFO   H_true=0.11  N=8  rep 2/20
+2026-11-02 19:35:57,215 INFO     H_index_est=0.0147  H_factor_est=0.0093
+2026-11-02 19:35:57,215 INFO   H_true=0.11  N=8  rep 3/20
+2026-11-02 19:35:57,976 INFO     H_index_est=0.0773  H_factor_est=0.0150
+2026-11-02 19:35:57,976 INFO   H_true=0.11  N=8  rep 4/20
+2026-11-02 19:35:58,790 INFO     H_index_est=0.0617  H_factor_est=0.0267
+2026-11-02 19:35:58,790 INFO   H_true=0.11  N=8  rep 5/20
+2026-11-02 19:35:59,665 INFO     H_index_est=0.0107  H_factor_est=0.0058
+2026-11-02 19:35:59,665 INFO   H_true=0.11  N=8  rep 6/20
+2026-11-02 19:36:00,752 INFO     H_index_est=0.0170  H_factor_est=0.0054
+2026-11-02 19:36:00,752 INFO   H_true=0.11  N=8  rep 7/20
+2026-11-02 19:36:01,899 INFO     H_index_est=0.0183  H_factor_est=0.0095
+2026-11-02 19:36:01,899 INFO   H_true=0.11  N=8  rep 8/20
+2026-11-02 19:36:02,936 INFO     H_index_est=0.0124  H_factor_est=0.0133
+2026-11-02 19:36:02,936 INFO   H_true=0.11  N=8  rep 9/20
+2026-11-02 19:36:03,453 INFO     H_index_est=0.0801  H_factor_est=0.0562
+2026-11-02 19:36:03,453 INFO   H_true=0.11  N=8  rep 10/20
+2026-11-02 19:36:04,257 INFO     H_index_est=0.0127  H_factor_est=0.0098
+2026-11-02 19:36:04,257 INFO   H_true=0.11  N=8  rep 11/20
+2026-11-02 19:36:05,305 INFO     H_index_est=0.0125  H_factor_est=0.0085
+2026-11-02 19:36:05,305 INFO   H_true=0.11  N=8  rep 12/20
+2026-11-02 19:36:06,212 INFO     H_index_est=0.0828  H_factor_est=0.0096
+2026-11-02 19:36:06,212 INFO   H_true=0.11  N=8  rep 13/20
+2026-11-02 19:36:06,977 INFO     H_index_est=0.0378  H_factor_est=0.0637
+2026-11-02 19:36:06,977 INFO   H_true=0.11  N=8  rep 14/20
+2026-11-02 19:36:07,942 INFO     H_index_est=0.0421  H_factor_est=0.0081
+2026-11-02 19:36:07,942 INFO   H_true=0.11  N=8  rep 15/20
+2026-11-02 19:36:08,352 INFO     H_index_est=0.1324  H_factor_est=0.0578
+2026-11-02 19:36:08,352 INFO   H_true=0.11  N=8  rep 16/20
+2026-11-02 19:36:08,786 INFO     H_index_est=0.0845  H_factor_est=0.0743
+2026-11-02 19:36:08,786 INFO   H_true=0.11  N=8  rep 17/20
+2026-11-02 19:36:09,404 INFO     H_index_est=0.0249  H_factor_est=0.0651
+2026-11-02 19:36:09,404 INFO   H_true=0.11  N=8  rep 18/20
+2026-11-02 19:36:10,089 INFO     H_index_est=0.0404  H_factor_est=0.0184
+2026-11-02 19:36:10,089 INFO   H_true=0.11  N=8  rep 19/20
+2026-11-02 19:36:10,908 INFO     H_index_est=0.0108  H_factor_est=0.0074
+2026-11-02 19:36:10,908 INFO   H_true=0.11  N=8  rep 20/20
+2026-11-02 19:36:11,632 INFO     H_index_est=0.1181  H_factor_est=0.0342
+2026-11-02 19:36:11,633 INFO   N=8 summary: H_index=0.0453 [0.0108,0.1256]  H_factor=0.0253 [0.0056,0.0699]
+2026-11-02 19:36:11,633 INFO Exp3: H_true=0.11  N=16 — starting 20 MC reps
+2026-11-02 19:36:11,633 INFO   H_true=0.11  N=16  rep 1/20
+2026-11-02 19:36:12,191 INFO     H_index_est=0.0634  H_factor_est=0.0725
+2026-11-02 19:36:12,192 INFO   H_true=0.11  N=16  rep 2/20
+2026-11-02 19:36:13,279 INFO     H_index_est=0.0289  H_factor_est=0.0094
+2026-11-02 19:36:13,279 INFO   H_true=0.11  N=16  rep 3/20
+2026-11-02 19:36:14,186 INFO     H_index_est=0.0129  H_factor_est=0.0093
+2026-11-02 19:36:14,187 INFO   H_true=0.11  N=16  rep 4/20
+2026-11-02 19:36:15,222 INFO     H_index_est=0.0119  H_factor_est=0.0188
+2026-11-02 19:36:15,222 INFO   H_true=0.11  N=16  rep 5/20
+2026-11-02 19:36:16,065 INFO     H_index_est=0.0141  H_factor_est=0.0115
+2026-11-02 19:36:16,065 INFO   H_true=0.11  N=16  rep 6/20
+2026-11-02 19:36:17,108 INFO     H_index_est=0.0687  H_factor_est=0.0106
+2026-11-02 19:36:17,108 INFO   H_true=0.11  N=16  rep 7/20
+2026-11-02 19:36:18,130 INFO     H_index_est=0.0107  H_factor_est=0.0061
+2026-11-02 19:36:18,130 INFO   H_true=0.11  N=16  rep 8/20
+2026-11-02 19:36:18,715 INFO     H_index_est=0.1002  H_factor_est=0.0121
+2026-11-02 19:36:18,715 INFO   H_true=0.11  N=16  rep 9/20
+2026-11-02 19:36:19,470 INFO     H_index_est=0.0122  H_factor_est=0.0077
+2026-11-02 19:36:19,470 INFO   H_true=0.11  N=16  rep 10/20
+2026-11-02 19:36:20,279 INFO     H_index_est=0.0111  H_factor_est=0.0089
+2026-11-02 19:36:20,279 INFO   H_true=0.11  N=16  rep 11/20
+2026-11-02 19:36:20,893 INFO     H_index_est=0.0443  H_factor_est=0.0482
+2026-11-02 19:36:20,893 INFO   H_true=0.11  N=16  rep 12/20
+2026-11-02 19:36:21,886 INFO     H_index_est=0.0130  H_factor_est=0.0109
+2026-11-02 19:36:21,886 INFO   H_true=0.11  N=16  rep 13/20
+2026-11-02 19:36:23,089 INFO     H_index_est=0.0143  H_factor_est=0.0120
+2026-11-02 19:36:23,090 INFO   H_true=0.11  N=16  rep 14/20
+2026-11-02 19:36:24,143 INFO     H_index_est=0.0133  H_factor_est=0.0184
+2026-11-02 19:36:24,143 INFO   H_true=0.11  N=16  rep 15/20
+2026-11-02 19:36:24,751 INFO     H_index_est=0.0629  H_factor_est=0.0302
+2026-11-02 19:36:24,751 INFO   H_true=0.11  N=16  rep 16/20
+2026-11-02 19:36:25,659 INFO     H_index_est=0.0307  H_factor_est=0.0093
+2026-11-02 19:36:25,659 INFO   H_true=0.11  N=16  rep 17/20
+2026-11-02 19:36:26,151 INFO     H_index_est=0.1352  H_factor_est=0.0692
+2026-11-02 19:36:26,151 INFO   H_true=0.11  N=16  rep 18/20
+2026-11-02 19:36:27,357 INFO     H_index_est=0.0141  H_factor_est=0.0082
+2026-11-02 19:36:27,357 INFO   H_true=0.11  N=16  rep 19/20
+2026-11-02 19:36:27,834 INFO     H_index_est=0.1439  H_factor_est=0.1336
+2026-11-02 19:36:27,834 INFO   H_true=0.11  N=16  rep 20/20
+2026-11-02 19:36:28,686 INFO     H_index_est=0.0515  H_factor_est=0.0086
+2026-11-02 19:36:28,687 INFO   N=16 summary: H_index=0.0429 [0.0109,0.1398]  H_factor=0.0258 [0.0068,0.1046]
+2026-11-02 19:36:28,687 INFO Exp3: H_true=0.11  N=32 — starting 20 MC reps
+2026-11-02 19:36:28,687 INFO   H_true=0.11  N=32  rep 1/20
+2026-11-02 19:36:29,292 INFO     H_index_est=0.1123  H_factor_est=0.0671
+2026-11-02 19:36:29,292 INFO   H_true=0.11  N=32  rep 2/20
+2026-11-02 19:36:30,522 INFO     H_index_est=0.0089  H_factor_est=0.0098
+2026-11-02 19:36:30,522 INFO   H_true=0.11  N=32  rep 3/20
+2026-11-02 19:36:31,341 INFO     H_index_est=0.0414  H_factor_est=0.0334
+2026-11-02 19:36:31,341 INFO   H_true=0.11  N=32  rep 4/20
+2026-11-02 19:36:31,883 INFO     H_index_est=0.1571  H_factor_est=0.1502
+2026-11-02 19:36:31,883 INFO   H_true=0.11  N=32  rep 5/20
+2026-11-02 19:36:32,516 INFO     H_index_est=0.1689  H_factor_est=0.1684
+2026-11-02 19:36:32,517 INFO   H_true=0.11  N=32  rep 6/20
+2026-11-02 19:36:34,052 INFO     H_index_est=0.0184  H_factor_est=0.0120
+2026-11-02 19:36:34,052 INFO   H_true=0.11  N=32  rep 7/20
+2026-11-02 19:36:35,061 INFO     H_index_est=0.0277  H_factor_est=0.0533
+2026-11-02 19:36:35,061 INFO   H_true=0.11  N=32  rep 8/20
+2026-11-02 19:36:35,776 INFO     H_index_est=0.0401  H_factor_est=0.0286
+2026-11-02 19:36:35,776 INFO   H_true=0.11  N=32  rep 9/20
+2026-11-02 19:36:36,340 INFO     H_index_est=0.0799  H_factor_est=0.0643
+2026-11-02 19:36:36,340 INFO   H_true=0.11  N=32  rep 10/20
+2026-11-02 19:36:36,999 INFO     H_index_est=0.0986  H_factor_est=0.0728
+2026-11-02 19:36:36,999 INFO   H_true=0.11  N=32  rep 11/20
+2026-11-02 19:36:37,861 INFO     H_index_est=0.0131  H_factor_est=0.0283
+2026-11-02 19:36:37,861 INFO   H_true=0.11  N=32  rep 12/20
+2026-11-02 19:36:38,364 INFO     H_index_est=0.1426  H_factor_est=0.0959
+2026-11-02 19:36:38,364 INFO   H_true=0.11  N=32  rep 13/20
+2026-11-02 19:36:39,273 INFO     H_index_est=0.0141  H_factor_est=0.0112
+2026-11-02 19:36:39,273 INFO   H_true=0.11  N=32  rep 14/20
+2026-11-02 19:36:40,088 INFO     H_index_est=0.0384  H_factor_est=0.0230
+2026-11-02 19:36:40,088 INFO   H_true=0.11  N=32  rep 15/20
+2026-11-02 19:36:40,844 INFO     H_index_est=0.1018  H_factor_est=0.0586
+2026-11-02 19:36:40,844 INFO   H_true=0.11  N=32  rep 16/20
+2026-11-02 19:36:41,760 INFO     H_index_est=0.0291  H_factor_est=0.0265
+2026-11-02 19:36:41,760 INFO   H_true=0.11  N=32  rep 17/20
+2026-11-02 19:36:42,751 INFO     H_index_est=0.0151  H_factor_est=0.0092
+2026-11-02 19:36:42,751 INFO   H_true=0.11  N=32  rep 18/20
+2026-11-02 19:36:43,673 INFO     H_index_est=0.0491  H_factor_est=0.0417
+2026-11-02 19:36:43,673 INFO   H_true=0.11  N=32  rep 19/20
+2026-11-02 19:36:44,725 INFO     H_index_est=0.0192  H_factor_est=0.0086
+2026-11-02 19:36:44,725 INFO   H_true=0.11  N=32  rep 20/20
+2026-11-02 19:36:45,497 INFO     H_index_est=0.1427  H_factor_est=0.0883
+2026-11-02 19:36:45,498 INFO   N=32 summary: H_index=0.0659 [0.0109,0.1633]  H_factor=0.0526 [0.0089,0.1598]
+2026-11-02 19:36:45,498 INFO Exp3: H_true=0.11  N=64 — starting 20 MC reps
+2026-11-02 19:36:45,498 INFO   H_true=0.11  N=64  rep 1/20
+2026-11-02 19:36:46,396 INFO     H_index_est=0.0602  H_factor_est=0.0472
+2026-11-02 19:36:46,396 INFO   H_true=0.11  N=64  rep 2/20
+2026-11-02 19:36:47,836 INFO     H_index_est=0.0166  H_factor_est=0.0262
+2026-11-02 19:36:47,836 INFO   H_true=0.11  N=64  rep 3/20
+2026-11-02 19:36:48,794 INFO     H_index_est=0.0554  H_factor_est=0.0765
+2026-11-02 19:36:48,795 INFO   H_true=0.11  N=64  rep 4/20
+2026-11-02 19:36:50,106 INFO     H_index_est=0.0134  H_factor_est=0.0103
+2026-11-02 19:36:50,107 INFO   H_true=0.11  N=64  rep 5/20
+2026-11-02 19:36:51,246 INFO     H_index_est=0.0674  H_factor_est=0.0304
+2026-11-02 19:36:51,246 INFO   H_true=0.11  N=64  rep 6/20
+2026-11-02 19:36:52,154 INFO     H_index_est=0.2305  H_factor_est=0.2629
+2026-11-02 19:36:52,154 INFO   H_true=0.11  N=64  rep 7/20
+2026-11-02 19:36:53,050 INFO     H_index_est=0.0975  H_factor_est=0.1035
+2026-11-02 19:36:53,050 INFO   H_true=0.11  N=64  rep 8/20
+2026-11-02 19:36:53,961 INFO     H_index_est=0.0587  H_factor_est=0.0592
+2026-11-02 19:36:53,961 INFO   H_true=0.11  N=64  rep 9/20
+2026-11-02 19:36:55,274 INFO     H_index_est=0.0118  H_factor_est=0.0101
+2026-11-02 19:36:55,274 INFO   H_true=0.11  N=64  rep 10/20
+2026-11-02 19:36:56,245 INFO     H_index_est=0.0817  H_factor_est=0.0523
+2026-11-02 19:36:56,245 INFO   H_true=0.11  N=64  rep 11/20
+2026-11-02 19:36:57,366 INFO     H_index_est=0.0665  H_factor_est=0.0377
+2026-11-02 19:36:57,366 INFO   H_true=0.11  N=64  rep 12/20
+2026-11-02 19:36:58,741 INFO     H_index_est=0.0374  H_factor_est=0.0127
+2026-11-02 19:36:58,741 INFO   H_true=0.11  N=64  rep 13/20
+2026-11-02 19:36:59,850 INFO     H_index_est=0.0441  H_factor_est=0.0271
+2026-11-02 19:36:59,850 INFO   H_true=0.11  N=64  rep 14/20
+2026-11-02 19:37:00,773 INFO     H_index_est=0.1163  H_factor_est=0.1098
+2026-11-02 19:37:00,773 INFO   H_true=0.11  N=64  rep 15/20
+2026-11-02 19:37:02,065 INFO     H_index_est=0.0399  H_factor_est=0.0188
+2026-11-02 19:37:02,065 INFO   H_true=0.11  N=64  rep 16/20
+2026-11-02 19:37:03,548 INFO     H_index_est=0.0156  H_factor_est=0.0104
+2026-11-02 19:37:03,548 INFO   H_true=0.11  N=64  rep 17/20
+2026-11-02 19:37:05,127 INFO     H_index_est=0.0119  H_factor_est=0.0101
+2026-11-02 19:37:05,127 INFO   H_true=0.11  N=64  rep 18/20
+2026-11-02 19:37:06,036 INFO     H_index_est=0.0937  H_factor_est=0.1160
+2026-11-02 19:37:06,036 INFO   H_true=0.11  N=64  rep 19/20
+2026-11-02 19:37:07,332 INFO     H_index_est=0.0411  H_factor_est=0.0109
+2026-11-02 19:37:07,332 INFO   H_true=0.11  N=64  rep 20/20
+2026-11-02 19:37:08,369 INFO     H_index_est=0.0636  H_factor_est=0.0529
+2026-11-02 19:37:08,369 INFO   N=64 summary: H_index=0.0612 [0.0119,0.1762]  H_factor=0.0543 [0.0101,0.1931]
+2026-11-02 19:37:08,369 INFO Exp3: H_true=0.11  N=128 — starting 20 MC reps
+2026-11-02 19:37:08,369 INFO   H_true=0.11  N=128  rep 1/20
+2026-11-02 19:37:10,039 INFO     H_index_est=0.0723  H_factor_est=0.0910
+2026-11-02 19:37:10,039 INFO   H_true=0.11  N=128  rep 2/20
+2026-11-02 19:37:11,855 INFO     H_index_est=0.0355  H_factor_est=0.0260
+2026-11-02 19:37:11,855 INFO   H_true=0.11  N=128  rep 3/20
+2026-11-02 19:37:13,369 INFO     H_index_est=0.0973  H_factor_est=0.0801
+2026-11-02 19:37:13,369 INFO   H_true=0.11  N=128  rep 4/20
+2026-11-02 19:37:15,864 INFO     H_index_est=0.0229  H_factor_est=0.0136
+2026-11-02 19:37:15,864 INFO   H_true=0.11  N=128  rep 5/20
+2026-11-02 19:37:17,492 INFO     H_index_est=0.1050  H_factor_est=0.0850
+2026-11-02 19:37:17,492 INFO   H_true=0.11  N=128  rep 6/20
+2026-11-02 19:37:19,294 INFO     H_index_est=0.0454  H_factor_est=0.0441
+2026-11-02 19:37:19,294 INFO   H_true=0.11  N=128  rep 7/20
+2026-11-02 19:37:21,324 INFO     H_index_est=0.0121  H_factor_est=0.0111
+2026-11-02 19:37:21,324 INFO   H_true=0.11  N=128  rep 8/20
+2026-11-02 19:37:23,263 INFO     H_index_est=0.0380  H_factor_est=0.0220
+2026-11-02 19:37:23,263 INFO   H_true=0.11  N=128  rep 9/20
+2026-11-02 19:37:25,250 INFO     H_index_est=0.0121  H_factor_est=0.0122
+2026-11-02 19:37:25,251 INFO   H_true=0.11  N=128  rep 10/20
+2026-11-02 19:37:26,858 INFO     H_index_est=0.0682  H_factor_est=0.0633
+2026-11-02 19:37:26,858 INFO   H_true=0.11  N=128  rep 11/20
+2026-11-02 19:37:28,681 INFO     H_index_est=0.0773  H_factor_est=0.0836
+2026-11-02 19:37:28,681 INFO   H_true=0.11  N=128  rep 12/20
+2026-11-02 19:37:30,560 INFO     H_index_est=0.0336  H_factor_est=0.0192
+2026-11-02 19:37:30,560 INFO   H_true=0.11  N=128  rep 13/20
+2026-11-02 19:37:32,197 INFO     H_index_est=0.0897  H_factor_est=0.0946
+2026-11-02 19:37:32,198 INFO   H_true=0.11  N=128  rep 14/20
+2026-11-02 19:37:34,072 INFO     H_index_est=0.0287  H_factor_est=0.0440
+2026-11-02 19:37:34,072 INFO   H_true=0.11  N=128  rep 15/20
+2026-11-02 19:37:36,152 INFO     H_index_est=0.0338  H_factor_est=0.0264
+2026-11-02 19:37:36,152 INFO   H_true=0.11  N=128  rep 16/20
+2026-11-02 19:37:37,835 INFO     H_index_est=0.0330  H_factor_est=0.0308
+2026-11-02 19:37:37,835 INFO   H_true=0.11  N=128  rep 17/20
+2026-11-02 19:37:40,107 INFO     H_index_est=0.0134  H_factor_est=0.0146
+2026-11-02 19:37:40,107 INFO   H_true=0.11  N=128  rep 18/20
+2026-11-02 19:37:41,826 INFO     H_index_est=0.0865  H_factor_est=0.0806
+2026-11-02 19:37:41,826 INFO   H_true=0.11  N=128  rep 19/20
+2026-11-02 19:37:43,366 INFO     H_index_est=0.0442  H_factor_est=0.0463
+2026-11-02 19:37:43,366 INFO   H_true=0.11  N=128  rep 20/20
+2026-11-02 19:37:45,812 INFO     H_index_est=0.0802  H_factor_est=0.0687
+2026-11-02 19:37:45,813 INFO   N=128 summary: H_index=0.0515 [0.0121,0.1013]  H_factor=0.0479 [0.0116,0.0929]
+2026-11-02 19:37:45,813 INFO Exp3: H_true=0.11  N=256 — starting 20 MC reps
+2026-11-02 19:37:45,813 INFO   H_true=0.11  N=256  rep 1/20
+2026-11-02 19:37:49,239 INFO     H_index_est=0.1518  H_factor_est=0.1400
+2026-11-02 19:37:49,239 INFO   H_true=0.11  N=256  rep 2/20
+2026-11-02 19:37:52,639 INFO     H_index_est=0.0126  H_factor_est=0.0116
+2026-11-02 19:37:52,640 INFO   H_true=0.11  N=256  rep 3/20
+2026-11-02 19:37:55,333 INFO     H_index_est=0.0335  H_factor_est=0.0164
+2026-11-02 19:37:55,334 INFO   H_true=0.11  N=256  rep 4/20
+2026-11-02 19:37:57,834 INFO     H_index_est=0.0668  H_factor_est=0.0644
+2026-11-02 19:37:57,834 INFO   H_true=0.11  N=256  rep 5/20
+2026-11-02 19:38:00,457 INFO     H_index_est=0.0374  H_factor_est=0.0564
+2026-11-02 19:38:00,457 INFO   H_true=0.11  N=256  rep 6/20
+2026-11-02 19:38:03,120 INFO     H_index_est=0.0404  H_factor_est=0.0499
+2026-11-02 19:38:03,120 INFO   H_true=0.11  N=256  rep 7/20
+2026-11-02 19:38:05,826 INFO     H_index_est=0.0210  H_factor_est=0.0154
+2026-11-02 19:38:05,826 INFO   H_true=0.11  N=256  rep 8/20
+2026-11-02 19:38:08,134 INFO     H_index_est=0.1006  H_factor_est=0.0982
+2026-11-02 19:38:08,134 INFO   H_true=0.11  N=256  rep 9/20
+2026-11-02 19:38:10,833 INFO     H_index_est=0.0122  H_factor_est=0.0122
+2026-11-02 19:38:10,833 INFO   H_true=0.11  N=256  rep 10/20
+2026-11-02 19:38:13,487 INFO     H_index_est=0.0273  H_factor_est=0.0157
+2026-11-02 19:38:13,487 INFO   H_true=0.11  N=256  rep 11/20
+2026-11-02 19:38:16,188 INFO     H_index_est=0.0395  H_factor_est=0.0139
+2026-11-02 19:38:16,188 INFO   H_true=0.11  N=256  rep 12/20
+2026-11-02 19:38:18,955 INFO     H_index_est=0.0282  H_factor_est=0.0163
+2026-11-02 19:38:18,955 INFO   H_true=0.11  N=256  rep 13/20
+2026-11-02 19:38:21,319 INFO     H_index_est=0.1106  H_factor_est=0.1139
+2026-11-02 19:38:21,319 INFO   H_true=0.11  N=256  rep 14/20
+2026-11-02 19:38:24,016 INFO     H_index_est=0.0124  H_factor_est=0.0117
+2026-11-02 19:38:24,016 INFO   H_true=0.11  N=256  rep 15/20
+2026-11-02 19:38:26,541 INFO     H_index_est=0.0485  H_factor_est=0.0422
+2026-11-02 19:38:26,541 INFO   H_true=0.11  N=256  rep 16/20
+2026-11-02 19:38:30,164 INFO     H_index_est=0.0142  H_factor_est=0.0201
+2026-11-02 19:38:30,164 INFO   H_true=0.11  N=256  rep 17/20
+2026-11-02 19:38:32,560 INFO     H_index_est=0.1899  H_factor_est=0.1961
+2026-11-02 19:38:32,560 INFO   H_true=0.11  N=256  rep 18/20
+2026-11-02 19:38:35,375 INFO     H_index_est=0.0130  H_factor_est=0.0127
+2026-11-02 19:38:35,375 INFO   H_true=0.11  N=256  rep 19/20
+2026-11-02 19:38:37,850 INFO     H_index_est=0.0535  H_factor_est=0.0342
+2026-11-02 19:38:37,850 INFO   H_true=0.11  N=256  rep 20/20
+2026-11-02 19:38:40,523 INFO     H_index_est=0.0347  H_factor_est=0.0279
+2026-11-02 19:38:40,524 INFO   N=256 summary: H_index=0.0524 [0.0123,0.1718]  H_factor=0.0485 [0.0116,0.1694]
+2026-11-02 19:38:40,537 INFO Metrics saved to results/exp3_metrics.json
+2026-11-02 19:38:40,541 INFO Table saved to results/exp3_table.csv
+2026-11-02 19:38:40,964 INFO Plot saved to results/exp3_hurst_vs_N_H0.08.png
+2026-11-02 19:38:41,334 INFO Plot saved to results/exp3_hurst_vs_N_H0.11.png
+
+=== Exp 3 Results ===
+
+  H_true = 0.08
+      N    H_idx_mean                idx_CI    H_fac_mean                fac_CI
+  ------------------------------------------------------------------------------
+      2        0.0117  [0.0046,0.0336]        0.0084  [0.0044,0.0214]
+      4        0.0276  [0.0092,0.0923]        0.0127  [0.0056,0.0499]
+      8        0.0471  [0.0114,0.1314]        0.0279  [0.0075,0.0675]
+     16        0.0317  [0.0128,0.0758]        0.0204  [0.0081,0.0553]
+     32        0.0384  [0.0140,0.1140]        0.0337  [0.0105,0.1052]
+     64        0.0345  [0.0115,0.1040]        0.0323  [0.0107,0.1106]
+    128        0.0410  [0.0124,0.0881]        0.0355  [0.0122,0.0657]
+    256        0.0317  [0.0138,0.0793]        0.0295  [0.0133,0.0765]
+
+  H_true = 0.11
+      N    H_idx_mean                idx_CI    H_fac_mean                fac_CI
+  ------------------------------------------------------------------------------
+      2        0.0164  [0.0046,0.0571]        0.0100  [0.0047,0.0400]
+      4        0.0510  [0.0072,0.1387]        0.0249  [0.0049,0.0958]
+      8        0.0453  [0.0108,0.1256]        0.0253  [0.0056,0.0699]
+     16        0.0429  [0.0109,0.1398]        0.0258  [0.0068,0.1046]
+     32        0.0659  [0.0109,0.1633]        0.0526  [0.0089,0.1598]
+     64        0.0612  [0.0119,0.1762]        0.0543  [0.0101,0.1931]
+    128        0.0515  [0.0121,0.1013]        0.0479  [0.0116,0.0929]
+    256        0.0524  [0.0123,0.1718]        0.0485  [0.0116,0.1694]
